@@ -1,1 +1,1 @@
-# grocery-prroject
+# grocery-project
